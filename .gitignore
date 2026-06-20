@@ -1,2 +1,18 @@
 *.pem
 *.DS_Store
+assets/*
+!assets/README.md
+.kiro
+
+# Carry over from Reference Quest as of April 6, 2026
+assets
+scan_output
+build/
+.venv
+.venv/*
+.vscode
+.vscode/*
+.DS_Store
+.idea/
+.devcontainer/
+settings.json
